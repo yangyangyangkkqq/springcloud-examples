@@ -1,0 +1,10 @@
+server:
+  port: 9000
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: host_route
+        uri: http://localhost:8999/springboot
+        predicates:
+        - Path=/spring
