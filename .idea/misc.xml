@@ -8,8 +8,12 @@
       <list>
         <option value="$PROJECT_DIR$/springcloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-storage-service/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
